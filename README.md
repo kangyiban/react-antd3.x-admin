@@ -66,7 +66,7 @@ React-Antd-Admin 同时也是个很好的前端脚手架学习示例，如果你
 
 克隆源碼
 ```
-git clone https://github.com/kangyiban/react-antd-admin.git
+git clone https://github.com/kangyiban/react-antd3.x-admin.git
 ```
 安裝依賴
 ```
@@ -81,7 +81,7 @@ npm start
 ```
 npm run build
 ```
-### [Github源码](https://github.com/kangyiban/react-antd-admin)
+### [Github源码](https://github.com/kangyiban/react-antd3.x-admin.git)
 
 ### 致谢
 * [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
