@@ -64,7 +64,6 @@ class SideNenu extends Component {
 		});
 	};
 	render() {
-		// console.log(this.props);
 		const menuSelected = this.props.history.location.pathname;
 		const menuOpened = `/${menuSelected.split('/')[1]}`;
 		const type = this.props.theme.type;
