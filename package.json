@@ -163,6 +163,6 @@
         "react-hot-loader/babel"
       ]
     ]
-  },
+  }, 
   "repository": "git@github.com:chenjun1127/react-antd-admin.git"
 }
